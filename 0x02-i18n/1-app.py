@@ -1,4 +1,4 @@
-#!usr/bin/env python3
+#!/usr/bin/env python3
 """A basic fask app"""
 
 from flask_babel import Babel
@@ -17,7 +17,7 @@ app.url_map.strict_slashes = False
 babel = Babel(app)
 
 @app.route('/')
-def get_locale() -> str:
+def get_index() -> str:
     """index page"""
     return render_template('1-index.html')
 
