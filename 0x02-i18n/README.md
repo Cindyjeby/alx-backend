@@ -16,5 +16,5 @@
 
 
 <h2>Resources</h2>
-<a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xiii-i18n-and-l10n">Flask i18n tutorial</a>
-<a href="https://sourceforge.net/directory/software-development/windows/">Pytz</a>
+<p><a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xiii-i18n-and-l10n">Flask i18n tutorial</a></p>
+<p><a href="https://sourceforge.net/directory/software-development/windows/">Pytz</a></p>
