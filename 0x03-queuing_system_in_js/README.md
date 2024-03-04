@@ -4,7 +4,7 @@
 <li><a href="https://redis.io/docs/install/install-redis/">Redis quick start</a></li>
 <li><a href="https://redis.io/docs/manual/cli/">Redis client interface</a></li>
 <li><a href="https://github.com/redis/node-redis">Redis client for Node JS</a></li>
-<li><a href="https://github.com/Automattic/kue">Kue</a>deprecated but still use in the industry</li>
+<li><a href="https://github.com/Automattic/kue">Kue</a> deprecated but still use in the industry</li>
 
 <h2>Learning Objectives</h2>
 <li>How to run a Redis server on your machine</li>
